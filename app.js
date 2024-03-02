@@ -43,7 +43,7 @@ const html = `
         font-size: calc(62rem / 16);
       }
       body {
-        background: white;
+        background: pink;
       }
       section {
         border-radius: 1em;
@@ -58,7 +58,7 @@ const html = `
   </head>
   <body>
     <section>
-      <div class="vai"> ui vãi, hp xem kìa! </div>
+      ui vãi, hp xem kìa!
     </section>
   </body>
 </html>
