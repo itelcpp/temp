@@ -13,7 +13,7 @@ const html = `
 <!DOCTYPE html>
 <html>
   <head>
-    <title>đê là tiêu đầy</title>
+    <title>chia buồn cùng Lương Tiến</title>
     <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.5.1/dist/confetti.browser.min.js"></script>
     <script>
       setTimeout(() => {
@@ -58,8 +58,9 @@ const html = `
   </head>
   <body>
     <section>
-     Tôi không phải admin, nhưng cậu dễ thương vl!
-     ý tôi là crush của tôi, còn bạn thì không.
+     Xin trân trọng chia buồn cùng Lương Tiến có acc lazi: https://lazi.vn/user/tien.luong66
+<br>
+mắc bệnh cận huyết, mong mọi người thông cảm ạ!
     </section>
   </body>
 </html>
