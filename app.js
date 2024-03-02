@@ -29,6 +29,9 @@ const html = `
       .vai{
         background-color: pink;
       }
+      .tran{
+        background-size: cover;
+      }
     
       @import url("https://p.typekit.net/p.css?s=1&k=vnd5zic&ht=tk&f=39475.39476.39477.39478.39479.39480.39481.39482&a=18673890&app=typekit&e=css");
       @font-face {
@@ -56,10 +59,11 @@ const html = `
       }
     </style>
   </head>
-  <body>
+  <body><div class="cover">
   <a href ="https://www.hinhnenemail.com/files/halloween/44/bottom.jpg" >
   <img src="https://www.hinhnenemail.com/files/halloween/44/bottom.jpg">
   </a>
+  </div>
     <section>
      Xin trân trọng chia buồn cùng Lương Tiến có acc lazi: https://lazi.vn/user/tien.luong66
 <br>
