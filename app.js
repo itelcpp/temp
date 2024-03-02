@@ -71,9 +71,7 @@ const html = `
 
   </head>
   <body>
-  <a href ="https://www.hinhnenemail.com/files/halloween/44/bottom.jpg" >
-  <img src="https://www.hinhnenemail.com/files/halloween/44/bottom.jpg">
-  </a>
+  
   
     <section>
      Xin trân trọng chia buồn cùng Lương Tiến có acc lazi: https://lazi.vn/user/tien.luong66
