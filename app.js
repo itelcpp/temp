@@ -58,7 +58,8 @@ const html = `
   </head>
   <body>
     <section>
-      Á à, dám xem link 18- à, mách mẹ mách mẹ!
+     Tôi không phải admin, nhưng cậu dễ thương vl!
+     ý tôi là crush của tôi, còn bạn thì không.
     </section>
   </body>
 </html>
